@@ -1,1 +1,2 @@
-prifiles: profile-default
+foo :
+   foo version 4-default
